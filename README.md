@@ -1,6 +1,6 @@
 # Chromium CSP frame-ancestors referrer missing
 
-> Upstream Chromium bug: https://crbug.com/1093160
+> Upstream Chromium bug: https://crbug.com/742485
 
 ## How to reproduce
 
